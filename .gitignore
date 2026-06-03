@@ -1,0 +1,30 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# IDE
+.vs/
+.vscode/
+Debug/
+Release/
+*.vcxproj
+*.vcxproj.user
+*.sln
+
+# Data files
+*.dat
+*.txt
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
